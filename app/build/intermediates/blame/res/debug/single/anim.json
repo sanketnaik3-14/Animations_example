@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/sanket/AndroidStudioProjects/Animations_example/app/build/intermediates/res/merged/debug/anim/fade.xml",
+        "source": "/Users/sanket/AndroidStudioProjects/Animations_example/app/src/main/res/anim/fade.xml"
+    },
+    {
+        "merged": "/Users/sanket/AndroidStudioProjects/Animations_example/app/build/intermediates/res/merged/debug/anim/move.xml",
+        "source": "/Users/sanket/AndroidStudioProjects/Animations_example/app/src/main/res/anim/move.xml"
+    },
+    {
+        "merged": "/Users/sanket/AndroidStudioProjects/Animations_example/app/build/intermediates/res/merged/debug/anim/rotate.xml",
+        "source": "/Users/sanket/AndroidStudioProjects/Animations_example/app/src/main/res/anim/rotate.xml"
+    },
+    {
+        "merged": "/Users/sanket/AndroidStudioProjects/Animations_example/app/build/intermediates/res/merged/debug/anim/zoom.xml",
+        "source": "/Users/sanket/AndroidStudioProjects/Animations_example/app/src/main/res/anim/zoom.xml"
+    }
+]
